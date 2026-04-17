@@ -58,10 +58,8 @@
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-</p> 
+  <img src="https://skillicons.dev/icons?i=django,flask" height="50"/>
+</p>
 
 ### 📱 App Development
 <p>
