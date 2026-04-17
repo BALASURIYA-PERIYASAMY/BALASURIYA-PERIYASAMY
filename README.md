@@ -47,7 +47,8 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,php,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,php" height="50"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50"/>
 </p>
 
 ### 🌐 Web Development
