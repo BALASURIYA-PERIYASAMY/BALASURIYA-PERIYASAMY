@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balasuriya</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Enthusiast | Tech Innovator</h3>
+<h3 align="center">🚀 Software Developer | Full Stack Enthusiast | Tech Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=balasuriya-periyasamy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 - 💻 Passionate about building **AI-powered applications & real-world solutions**
-- 🤖 Creator of **"Prince" Voice Assistant**
 - 🌱 Currently learning **Frameworks & Cloud Computing**
 - 🔥 Love creating **websites, apps & smart systems**
 - 💬 Ask me about **Programming, AI, Web Development**
@@ -24,16 +23,21 @@
   👉 https://www.linkedin.com/in/balasuriya-p
 - 📄 Resume:  
   👉 https://drive.google.com/file/d/1W_iNFEV31R9bIPxSv4NR0YnmTkN-XPG2/view  
+- 📰 Blog:  
+  👉 https://balasuriya-coding-diary.blogspot.com/  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/mibalasuriya" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
 <a href="https://linkedin.com/in/balasuriya-p" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/u/Balasuriya_06/" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+<a href="https://linkedin.com/in/balasuriya-p](https://www.hackerrank.com/profile/balasuriyaperiy1" target="blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
 </a>
 </p>
 
