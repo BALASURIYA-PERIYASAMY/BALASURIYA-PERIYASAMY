@@ -50,10 +50,17 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,php" height="50"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50"/>
 </p>
-### 🌐 Web Development
+
+### 🌐 Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react" />
 </p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask" height="50"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="50"/>
+</p>  
 
 ### 📱 App Development
 <p>
@@ -72,7 +79,7 @@
 
 ### 🛠 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,opencv,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,opencv,postman,vscode"/>
 </p>
 
 ---
