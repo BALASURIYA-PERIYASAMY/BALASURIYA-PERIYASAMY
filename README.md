@@ -43,27 +43,27 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
 ### 📱 App Development
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,android" />
+<img src="https://skillicons.dev/icons?i=flutter,android"/>
 </p>
 
 ### ☁️ Cloud & Database
 <p>
-<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,sqlite,postgresql" />
 </p>
 
 ### 🛠 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,opencv,selenium" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,opencv,vscode"/>
 </p>
 
 ---
