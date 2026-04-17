@@ -46,10 +46,10 @@
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,php" height="50"/> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,java,c,php" height="50"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50"/>
 </p>
-
 ### 🌐 Web Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react" />
