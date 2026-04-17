@@ -30,13 +30,15 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/balasuriya-p" target="blank">
+<a href="https://linkedin.com/in/balasuriya-p" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://leetcode.com/u/Balasuriya_06/" target="blank">
+
+<a href="https://leetcode.com/u/Balasuriya_06/" target="_blank">
 <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
 </a>
-<a href="https://linkedin.com/in/balasuriya-p](https://www.hackerrank.com/profile/balasuriyaperiy1" target="blank">
+
+<a href="https://www.hackerrank.com/profile/balasuriyaperiy1" target="_blank">
 <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
 </a>
 </p>
