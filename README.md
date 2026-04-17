@@ -19,9 +19,9 @@
 
 ## 🌐 Portfolio & Links
 - 🌍 Portfolio:  
-  👉 https://balasuriya-periyasamy.github.io/balasuriya_portfolio/main.html  
+  👉 https://balasuriya-periyasamy.github.io/balasuriya-portfolio/  
 - 💼 LinkedIn:  
-  👉 https://www.linkedin.com/in/balasuriya-p-5bb0b92a6  
+  👉 https://www.linkedin.com/in/balasuriya-p
 - 📄 Resume:  
   👉 https://drive.google.com/file/d/1W_iNFEV31R9bIPxSv4NR0YnmTkN-XPG2/view  
 
