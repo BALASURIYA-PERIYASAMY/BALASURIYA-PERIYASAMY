@@ -47,12 +47,12 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php" />
+<img src="https://skillicons.dev/icons?i=python,java,c,php,sql" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react" />
 </p>
 
 ### 📱 App Development
