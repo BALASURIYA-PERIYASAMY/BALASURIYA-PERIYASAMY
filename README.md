@@ -73,13 +73,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=balasuriya-periyasamy&theme=onedark&margin-w=10&margin-h=10"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
