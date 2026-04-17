@@ -56,9 +56,14 @@
 <img src="https://skillicons.dev/icons?i=flutter,android"/>
 </p>
 
-### ☁️ Cloud & Database
+### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,sqlite,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql" />
+</p>
+
+### ☁️ Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase" />
 </p>
 
 ### 🛠 Tools & Technologies
