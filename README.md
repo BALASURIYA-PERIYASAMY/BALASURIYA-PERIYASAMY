@@ -33,15 +33,14 @@
 <a href="https://linkedin.com/in/balasuriya-p" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://leetcode.com/u/Balasuriya_06/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/balasuriyaperiy1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="40"/>
 </a>
 </p>
+
 ---
 
 ## ⚡ Tech Stack
