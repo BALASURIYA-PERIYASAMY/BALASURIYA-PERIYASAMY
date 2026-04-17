@@ -48,7 +48,7 @@
 ### 👨‍💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,php" height="50"/>
-<img src="https://img.shields.io/badge/SQL-Language-003B57?style=for-the-badge&logoColor=white" />
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
 </p>
 
 ### 🌐 Web Development
